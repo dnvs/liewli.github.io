@@ -1,7 +1,9 @@
 ---
 title: Functional Programming
+date: 2019-09-15
+comments: true
 ---
-#Functioal Programming Languages
+# Functioal Programming Languages
 
 * Haskell
 * SML
@@ -13,7 +15,7 @@ title: Functional Programming
 * Erlang
 * ...
 
-#Functions vs Procedures
+# Functions vs Procedures
 *	Function == expression, Procedure == statement
 *  Function关注的是computation而Procedure关注的是instruction
 *  Function 是一种映射，Domain-->Range
